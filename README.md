@@ -42,6 +42,10 @@ This is a simple language translator Graphical User Interface (GUI) developed us
 
 
 
+https://github.com/UjjwalGupta007/BHARATINTERN1.0/assets/97983333/c30edaa7-dee2-4978-83f8-ba6f6b313017
+
+
+
 
 
 
