@@ -52,7 +52,7 @@ https://github.com/UjjwalGupta007/BHARATINTERN1.0/assets/97983333/c30edaa7-dee2-
 
 ## Installation
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/translator-gui.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/UjjwalGupta007/translator-gui.git`.
 2. Install the required libraries using `pip install googletrans==4.0.0-rc1 ttkthemes Pillow`.
 3. Run the GUI using `python translator_gui.py`.
 
