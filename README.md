@@ -10,7 +10,8 @@
 [![Googletrans Version](https://img.shields.io/badge/Googletrans%20Version-4.0.0--rc1-4285F4?style=for-the-badge)](https://pypi.org/project/googletrans/4.0.0-rc1/)
 [![ttkthemes Version](https://img.shields.io/badge/ttkthemes%20Version-3.1.0-78909C?style=for-the-badge)](https://pypi.org/project/ttkthemes/3.1.0/)
 [![Pillow Version](https://img.shields.io/badge/Pillow%20Version-8.3.1-212121?style=for-the-badge)](https://pypi.org/project/Pillow/8.3.1/)
-
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue)
 
 ## Description
 
@@ -56,7 +57,19 @@ https://github.com/UjjwalGupta007/BHARATINTERN1.0/assets/97983333/c30edaa7-dee2-
 2. Install the required libraries using `pip install googletrans==4.0.0-rc1 ttkthemes Pillow`.
 3. Run the GUI using `python translator_gui.py`.
 
+## Contributions
+
+Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request. We appreciate any feedback or enhancements that can make the script better.
+
+## License
+
+This project is licensed under the MIT License. You can find the license details in the [LICENSE](LICENSE) file.
 
 ## Contact
 
 For any inquiries or questions, you can reach me at Ujjwalgupta79782@gmail.com or through my [GitHub profile](https://github.com/Ujjwalgupta007).
+
+<p align="center">
+  Made with ❤️ UJJWAL GUPTA
+</p>
+
